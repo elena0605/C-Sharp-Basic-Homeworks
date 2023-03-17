@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\bin\Debug\net6.0\SumOfEven.exe
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\bin\Debug\net6.0\SumOfEven.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\bin\Debug\net6.0\SumOfEven.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\bin\Debug\net6.0\SumOfEven.dll
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\bin\Debug\net6.0\SumOfEven.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.dll
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\refint\SumOfEven.dll
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\SumOfEven.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Class3Homework\SumOfEven\obj\Debug\net6.0\ref\SumOfEven.dll
