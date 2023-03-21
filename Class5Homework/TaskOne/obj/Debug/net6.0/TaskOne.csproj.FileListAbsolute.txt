@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\bin\Debug\net6.0\TaskOne.exe
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\bin\Debug\net6.0\TaskOne.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\bin\Debug\net6.0\TaskOne.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\bin\Debug\net6.0\TaskOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\bin\Debug\net6.0\TaskOne.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\refint\TaskOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\TaskOne.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskOne\obj\Debug\net6.0\ref\TaskOne.dll

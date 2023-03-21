@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\TaskFour.exe
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\TaskFour.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\TaskFour.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\TaskFour.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\TaskFour.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\refint\TaskFour.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\TaskFour.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\ref\TaskFour.dll

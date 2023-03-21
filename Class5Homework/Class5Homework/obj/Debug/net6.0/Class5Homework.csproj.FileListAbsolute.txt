@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\Class5Homework.exe
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\Class5Homework.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\Class5Homework.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\Class5Homework.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\bin\Debug\net6.0\Class5Homework.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\refint\Class5Homework.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\Class5Homework.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\Class5Homework\obj\Debug\net6.0\ref\Class5Homework.dll

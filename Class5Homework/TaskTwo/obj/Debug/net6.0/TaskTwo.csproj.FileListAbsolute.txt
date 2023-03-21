@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\bin\Debug\net6.0\TaskTwo.exe
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\bin\Debug\net6.0\TaskTwo.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\bin\Debug\net6.0\TaskTwo.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\bin\Debug\net6.0\TaskTwo.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\bin\Debug\net6.0\TaskTwo.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\refint\TaskTwo.dll
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.pdb
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\TaskTwo.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Class5Homework\TaskTwo\obj\Debug\net6.0\ref\TaskTwo.dll
