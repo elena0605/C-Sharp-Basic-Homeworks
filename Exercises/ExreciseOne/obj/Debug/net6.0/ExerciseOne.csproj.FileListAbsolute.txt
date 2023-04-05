@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\bin\Debug\net6.0\ExerciseOne.exe
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\bin\Debug\net6.0\ExerciseOne.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\bin\Debug\net6.0\ExerciseOne.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\bin\Debug\net6.0\ExerciseOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\bin\Debug\net6.0\ExerciseOne.pdb
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\refint\ExerciseOne.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.pdb
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ExerciseOne.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercises\obj\Debug\net6.0\ref\ExerciseOne.dll

@@ -1,0 +1,15 @@
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\bin\Debug\net6.0\Exercise_Five.exe
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\bin\Debug\net6.0\Exercise_Five.deps.json
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\bin\Debug\net6.0\Exercise_Five.runtimeconfig.json
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\bin\Debug\net6.0\Exercise_Five.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\bin\Debug\net6.0\Exercise_Five.pdb
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.csproj.AssemblyReference.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.AssemblyInfoInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.AssemblyInfo.cs
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.csproj.CoreCompileInputs.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\refint\Exercise_Five.dll
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.pdb
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\Exercise_Five.genruntimeconfig.cache
+C:\Users\bojan\Desktop\C-Sharp\Exercises\Exercise_Five\obj\Debug\net6.0\ref\Exercise_Five.dll
